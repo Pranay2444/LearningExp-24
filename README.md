@@ -1,2 +1,3 @@
-# Learning24
-"Hello Folks, I'm learning the Java development for next 2 months".
+# Hybrid framework - Java Selenium
+"Hello Folks, I'm creating the Java Automation project using hybrid f/w".
+
