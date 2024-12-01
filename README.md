@@ -1,5 +1,2 @@
-# LearningExp-24
-This is my first repo, I am excited to learn it from the beginning. 
-<br>
-Author - Pranay
-Hello Pranay....
+# Learning24
+"Hello Folks, I'm learning the Java development for next 2 months".
